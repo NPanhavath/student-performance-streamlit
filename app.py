@@ -8,7 +8,7 @@ import joblib
 st.set_page_config(
     page_title="Student Performance Predictor",
     page_icon="🎓",
-    layout="centered"
+    layout="wide"
 )
 
 # -------------------------------
